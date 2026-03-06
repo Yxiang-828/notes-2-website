@@ -116,8 +116,7 @@ To share your site:
 1. Simply **Zip the `docs/` folder**.
 2. Send that Zip file to anyone.
 3. They unzip it on their computer, double click `index.html`, and the perfectly functioning site launches instantly!
-
-To easily reference to it, sharing it on github pages works too.
+Online access via github pages works too.
 ---
 
 ## ⚠️ Important edge cases to know
